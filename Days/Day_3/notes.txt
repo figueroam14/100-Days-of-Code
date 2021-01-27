@@ -1,0 +1,15 @@
+Automate the Boring Stuff with Python
+
+
+Begin Chapter 1 | Python Basics
+Finished Chapter 1 | Python Basics
+
+
+Topics Covered: 
+* expressions 
+* variables
+* data types
+* converting  data types (str(), int(), float() functions)
+* comments
+* inputting data 
+* printing data
