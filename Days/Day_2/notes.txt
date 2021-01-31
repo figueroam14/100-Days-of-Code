@@ -1,0 +1,2 @@
+* Worked on C++ Primer 
+* Completed 1.2 | A firt look at input/ouput
